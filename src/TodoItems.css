@@ -1,0 +1,21 @@
+
+.input-group.done .form-control {
+    color: #28a745;
+    text-decoration: line-through
+}
+.input-group.done .input-group-prepend button {
+    color: #28a745
+}
+/*.input-group-prepend button {*/
+/*    color: #17a2b8;*/
+/*}*/
+
+/*.input-group .form-control {*/
+/*    color: #17a2b8;*/
+/*}*/
+
+.todoItem {
+    background-color: #ffffff;
+    margin-bottom: 1px;
+    border-radius: 4px;
+}
